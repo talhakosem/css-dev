@@ -1,0 +1,22 @@
+.red {
+    color:red;
+}
+
+.green {
+    color:green;
+}
+
+.upper {
+        text-transform: uppercase;    
+}
+
+.baslik {
+    color: gold;
+    background-color: black;
+}
+
+.yanyana {
+    text-align: center;
+    display: inline;  
+    margin: 10px;
+  }
